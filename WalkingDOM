@@ -1,0 +1,14 @@
+// WALKING THE DOM
+
+/* 
+The DOM allows us to do anything with elements and their contents, but first we need to reach the corresponding DOM object.
+
+
+According to the W3C HTML DOM standard, everything in an HTML document is a node:
+
+The entire document is a document node
+Every HTML element is an element node
+The text inside HTML elements are text nodes
+Every HTML attribute is an attribute node (deprecated)
+All comments are comment nodes
+
