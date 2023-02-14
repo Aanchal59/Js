@@ -17,3 +17,6 @@ console.log(promise)
 // Fetch pictures from the server 
 // Print downloading 
 // Rest of the script 
+
+//Promise is a promise of code of execution: fullfilled- rejected or resolved.
+//Promise k andar do properties hoti h: State and Result
